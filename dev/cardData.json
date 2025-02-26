@@ -59,7 +59,7 @@
          "max":0
       }
    ],
-  "JEN_001D_R":[
+   "JEN_001D_R":[
       {
          "name":"<:grade_R:1284800549245419562> **JENNIE : Dance** SOLO",
          "card_l":9,
@@ -85,7 +85,7 @@
    ],
    "JEN_001D_A":[
       {
-        "name":"<:grade_A:1284800600466395188> **JENNIE : Dance** SOLO",
+         "name":"<:grade_A:1284800600466395188> **JENNIE : Dance** SOLO",
          "card_l":7,
          "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@basic@@ced_basic_a_Collection.png,l-end/image.png",
          "artist":"JENNIE",
@@ -119,7 +119,7 @@
          "max":0
       }
    ],
-  "JEN_001R_R":[
+   "JEN_001R_R":[
       {
          "name":"<:grade_R:1284800549245419562> **JENNIE : Rhythm** SOLO",
          "card_l":14,
@@ -179,5 +179,4 @@
          "max":0
       }
    ]
-  
 ]

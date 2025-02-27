@@ -2,721 +2,2863 @@
   "JEN_001V_R": [
     {
       "name": "<:grade_R:1284800549245419562> **JENNIE : Vocal** SOLO",
-      "card_l": 5,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 1,
       "guessname": "<:grade_R:1284800549245419562> **JENNIE : Vocal**",
       "min": 5000,
-      "max": 2500
+      "max": 2500,
+      "card": 5
     }
   ],
   "JEN_001V_S": [
     {
       "name": "<:grade_S:1284800573249556522> **JENNIE : Vocal** SOLO",
-      "card_l": 4,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 2,
       "guessname": "<:grade_S:1284800573249556522> **JENNIE : Vocal**",
       "min": 2500,
-      "max": 1550
+      "max": 1550,
+      "card": 4
     }
   ],
   "JEN_001V_A": [
     {
       "name": "<:grade_A:1284800600466395188> **JENNIE : Vocal** SOLO",
-      "card_l": 3,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 3,
       "guessname": "<:grade_A:1284800600466395188> **JENNIE : Vocal**",
       "min": 1500,
-      "max": 1000
+      "max": 1000,
+      "card": 3
     }
   ],
   "JEN_001V_B": [
     {
       "name": "<:grade_B:1284800620901044246> **JENNIE : Vocal** SOLO",
-      "card_l": 2,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_B:1284800620901044246> **JENNIE : Vocal**",
       "min": 1000,
-      "max": 500
+      "max": 500,
+      "card": 2
     }
   ],
   "JEN_001V_C": [
     {
       "name": "<:grade_C:1284800642459893812> **JENNIE : Vocal** SOLO",
-      "card_l": 1,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 5,
       "guessname": "<:grade_C:1284800642459893812> **JENNIE : Vocal**",
       "min": 500,
-      "max": 0
+      "max": 0,
+      "card": 1
     }
   ],
   "JEN_001D_R": [
     {
       "name": "<:grade_R:1284800549245419562> **JENNIE : Dance** SOLO",
-      "card_l": 10,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 1,
       "guessname": "<:grade_R:1284800549245419562> **JENNIE : Dance**",
       "min": 5000,
-      "max": 2500
+      "max": 2500,
+      "card": 10
     }
   ],
   "JEN_001D_S": [
     {
       "name": "<:grade_S:1284800573249556522> **JENNIE : Dance** SOLO",
-      "card_l": 9,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 2,
       "guessname": "<:grade_S:1284800573249556522> **JENNIE : Dance**",
       "min": 2500,
-      "max": 1550
+      "max": 1550,
+      "card": 9
     }
   ],
   "JEN_001D_A": [
     {
       "name": "<:grade_A:1284800600466395188> **JENNIE : Dance** SOLO",
-      "card_l": 8,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 3,
       "guessname": "<:grade_A:1284800600466395188> **JENNIE : Dance**",
       "min": 1500,
-      "max": 1000
+      "max": 1000,
+      "card": 8
     }
   ],
   "JEN_001D_B": [
     {
       "name": "<:grade_B:1284800620901044246> **JENNIE : Dance** SOLO",
-      "card_l": 7,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_B:1284800620901044246> **JENNIE : Dance**",
       "min": 1000,
-      "max": 500
+      "max": 500,
+      "card": 7
     }
   ],
   "JEN_001D_C": [
     {
       "name": "<:grade_C:1284800642459893812> **JENNIE : Dance** SOLO",
-      "card_l": 6,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 5,
       "guessname": "<:grade_C:1284800642459893812> **JENNIE : Dance**",
       "min": 500,
-      "max": 0
+      "max": 0,
+      "card": 6
     }
   ],
   "JEN_001R_R": [
     {
       "name": "<:grade_R:1284800549245419562> **JENNIE : Rhythm** SOLO",
-      "card_l": 15,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_R:1284800549245419562> **JENNIE : Rhythm**",
       "min": 5000,
-      "max": 2500
+      "max": 2500,
+      "card": 15
     }
   ],
   "JEN_001R_S": [
     {
       "name": "<:grade_S:1284800573249556522> **JENNIE : Rhythm** SOLO",
-      "card_l": 14,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 2,
       "guessname": "<:grade_S:1284800573249556522> **JENNIE : Rhythm**",
       "min": 2500,
-      "max": 1550
+      "max": 1550,
+      "card": 14
     }
   ],
   "JEN_001R_A": [
     {
       "name": "<:grade_A:1284800600466395188> **JENNIE : Rhythm** SOLO",
-      "card_l": 13,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 3,
       "guessname": "<:grade_A:1284800600466395188> **JENNIE : Rhythm**",
       "min": 1500,
-      "max": 1000
+      "max": 1000,
+      "card": 13
     }
   ],
   "JEN_001R_B": [
     {
       "name": "<:grade_B:1284800620901044246> **JENNIE : Rhythm** SOLO",
-      "card_l": 12,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_B:1284800620901044246> **JENNIE : Rhythm**",
       "min": 1000,
-      "max": 500
+      "max": 500,
+      "card": 12
     }
   ],
   "JEN_001R_C": [
     {
       "name": "<:grade_C:1284800642459893812> **JENNIE : Rhythm** SOLO",
-      "card_l": 11,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 5,
       "guessname": "<:grade_C:1284800642459893812> **JENNIE : Rhythm**",
       "min": 500,
-      "max": 0
+      "max": 0,
+      "card": 11
     }
   ],
   "JEN_002V_R": [
     {
       "name": "<:grade_R:1284800549245419562> **JENNIE : Vocal** SHINING SOLO",
-      "card_l": 20,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 1,
       "guessname": "<:grade_R:1284800549245419562> **JENNIE : Vocal**",
       "min": 5000,
-      "max": 2500
+      "max": 2500,
+      "card": 20
     }
   ],
   "JEN_002V_S": [
     {
       "name": "<:grade_S:1284800573249556522> **JENNIE : Vocal** SHINING SOLO",
-      "card_l": 19,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 2,
       "guessname": "<:grade_S:1284800573249556522> **JENNIE : Vocal**",
       "min": 2500,
-      "max": 1550
+      "max": 1550,
+      "card": 19
     }
   ],
   "JEN_002V_A": [
     {
       "name": "<:grade_A:1284800600466395188> **JENNIE : Vocal** SHINING SOLO",
-      "card_l": 18,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 3,
       "guessname": "<:grade_A:1284800600466395188> **JENNIE : Vocal**",
       "min": 1500,
-      "max": 1000
+      "max": 1000,
+      "card": 18
     }
   ],
   "JEN_002V_B": [
     {
       "name": "<:grade_B:1284800620901044246> **JENNIE : Vocal** SHINING SOLO",
-      "card_l": 17,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_B:1284800620901044246> **JENNIE : Vocal**",
       "min": 1000,
-      "max": 500
+      "max": 500,
+      "card": 17
     }
   ],
   "JEN_002V_C": [
     {
       "name": "<:grade_C:1284800642459893812> **JENNIE : Vocal** SHINING SOLO",
-      "card_l": 16,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 5,
       "guessname": "<:grade_C:1284800642459893812> **JENNIE : Vocal**",
       "min": 500,
-      "max": 0
+      "max": 0,
+      "card": 16
     }
   ],
   "JEN_002D_R": [
     {
       "name": "<:grade_R:1284800549245419562> **JENNIE : Dance** SHINING SOLO",
-      "card_l": 25,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 1,
       "guessname": "<:grade_R:1284800549245419562> **JENNIE : Dance**",
       "min": 5000,
-      "max": 2500
+      "max": 2500,
+      "card": 25
     }
   ],
   "JEN_002D_S": [
     {
       "name": "<:grade_S:1284800573249556522> **JENNIE : Dance** SHINING SOLO",
-      "card_l": 24,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 2,
       "guessname": "<:grade_S:1284800573249556522> **JENNIE : Dance**",
       "min": 2500,
-      "max": 1550
+      "max": 1550,
+      "card": 24
     }
   ],
   "JEN_002D_A": [
     {
       "name": "<:grade_A:1284800600466395188> **JENNIE : Dance** SHINING SOLO",
-      "card_l": 23,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 3,
       "guessname": "<:grade_A:1284800600466395188> **JENNIE : Dance**",
       "min": 1500,
-      "max": 1000
+      "max": 1000,
+      "card": 23
     }
   ],
   "JEN_002D_B": [
     {
       "name": "<:grade_B:1284800620901044246> **JENNIE : Dance** SHINING SOLO",
-      "card_l": 22,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_B:1284800620901044246> **JENNIE : Dance**",
       "min": 1000,
-      "max": 500
+      "max": 500,
+      "card": 22
     }
   ],
   "JEN_002D_C": [
     {
       "name": "<:grade_C:1284800642459893812> **JENNIE : Dance** SHINING SOLO",
-      "card_l": 21,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 5,
       "guessname": "<:grade_C:1284800642459893812> **JENNIE : Dance**",
       "min": 500,
-      "max": 0
+      "max": 0,
+      "card": 21
     }
   ],
   "JEN_002R_R": [
     {
       "name": "<:grade_R:1284800549245419562> **JENNIE : Rhythm** SHINING SOLO",
-      "card_l": 30,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_R:1284800549245419562> **JENNIE : Rhythm**",
       "min": 5000,
-      "max": 2500
+      "max": 2500,
+      "card": 30
     }
   ],
   "JEN_002R_S": [
     {
       "name": "<:grade_S:1284800573249556522> **JENNIE : Rhythm** SHINING SOLO",
-      "card_l": 29,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 2,
       "guessname": "<:grade_S:1284800573249556522> **JENNIE : Rhythm**",
       "min": 2500,
-      "max": 1550
+      "max": 1550,
+      "card": 29
     }
   ],
   "JEN_002R_A": [
     {
       "name": "<:grade_A:1284800600466395188> **JENNIE : Rhythm** SHINING SOLO",
-      "card_l": 28,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 3,
       "guessname": "<:grade_A:1284800600466395188> **JENNIE : Rhythm**",
       "min": 1500,
-      "max": 1000
+      "max": 1000,
+      "card": 28
     }
   ],
   "JEN_002R_B": [
     {
       "name": "<:grade_B:1284800620901044246> **JENNIE : Rhythm** SHINING SOLO",
-      "card_l": 27,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_B:1284800620901044246> **JENNIE : Rhythm**",
       "min": 1000,
-      "max": 500
+      "max": 500,
+      "card": 27
     }
   ],
   "JEN_002R_C": [
     {
       "name": "<:grade_C:1284800642459893812> **JENNIE : Rhythm** SHINING SOLO",
-      "card_l": 26,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 5,
       "guessname": "<:grade_C:1284800642459893812> **JENNIE : Rhythm**",
       "min": 500,
-      "max": 0
+      "max": 0,
+      "card": 26
     }
   ],
   "JEN_003V_R": [
     {
       "name": "<:grade_R:1284800549245419562> **JENNIE : Vocal** Mantra",
-      "card_l": 35,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 1,
       "guessname": "<:grade_R:1284800549245419562> **JENNIE : Vocal**",
       "min": 5000,
-      "max": 2500
+      "max": 2500,
+      "card": 35
     }
   ],
   "JEN_003V_S": [
     {
       "name": "<:grade_S:1284800573249556522> **JENNIE : Vocal** Mantra",
-      "card_l": 34,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 2,
       "guessname": "<:grade_S:1284800573249556522> **JENNIE : Vocal**",
       "min": 2500,
-      "max": 1550
+      "max": 1550,
+      "card": 34
     }
   ],
   "JEN_003V_A": [
     {
       "name": "<:grade_A:1284800600466395188> **JENNIE : Vocal** Mantra",
-      "card_l": 33,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 3,
       "guessname": "<:grade_A:1284800600466395188> **JENNIE : Vocal**",
       "min": 1500,
-      "max": 1000
+      "max": 1000,
+      "card": 33
     }
   ],
   "JEN_003V_B": [
     {
       "name": "<:grade_B:1284800620901044246> **JENNIE : Vocal** Mantra",
-      "card_l": 32,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_B:1284800620901044246> **JENNIE : Vocal**",
       "min": 1000,
-      "max": 500
+      "max": 500,
+      "card": 32
     }
   ],
   "JEN_003V_C": [
     {
       "name": "<:grade_C:1284800642459893812> **JENNIE : Vocal** Mantra",
-      "card_l": 31,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 5,
       "guessname": "<:grade_C:1284800642459893812> **JENNIE : Vocal**",
       "min": 500,
-      "max": 0
+      "max": 0,
+      "card": 31
     }
   ],
   "JEN_003D_R": [
     {
       "name": "<:grade_R:1284800549245419562> **JENNIE : Dance** Mantra",
-      "card_l": 40,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 1,
       "guessname": "<:grade_R:1284800549245419562> **JENNIE : Dance**",
       "min": 5000,
-      "max": 2500
+      "max": 2500,
+      "card": 40
     }
   ],
   "JEN_003D_S": [
     {
       "name": "<:grade_S:1284800573249556522> **JENNIE : Dance** Mantra",
-      "card_l": 39,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 2,
       "guessname": "<:grade_S:1284800573249556522> **JENNIE : Dance**",
       "min": 2500,
-      "max": 1550
+      "max": 1550,
+      "card": 39
     }
   ],
   "JEN_003D_A": [
     {
       "name": "<:grade_A:1284800600466395188> **JENNIE : Dance** Mantra",
-      "card_l": 38,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 3,
       "guessname": "<:grade_A:1284800600466395188> **JENNIE : Dance**",
       "min": 1500,
-      "max": 1000
+      "max": 1000,
+      "card": 38
     }
   ],
   "JEN_003D_B": [
     {
       "name": "<:grade_B:1284800620901044246> **JENNIE : Dance** Mantra",
-      "card_l": 37,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_B:1284800620901044246> **JENNIE : Dance**",
       "min": 1000,
-      "max": 500
+      "max": 500,
+      "card": 37
     }
   ],
   "JEN_003D_C": [
     {
       "name": "<:grade_C:1284800642459893812> **JENNIE : Dance** Mantra",
-      "card_l": 36,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 5,
       "guessname": "<:grade_C:1284800642459893812> **JENNIE : Dance**",
       "min": 500,
-      "max": 0
+      "max": 0,
+      "card": 36
     }
   ],
   "JEN_003R_R": [
     {
       "name": "<:grade_R:1284800549245419562> **JENNIE : Rhythm** Mantra",
-      "card_l": 45,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_R:1284800549245419562> **JENNIE : Rhythm**",
       "min": 5000,
-      "max": 2500
+      "max": 2500,
+      "card": 45
     }
   ],
   "JEN_003R_S": [
     {
       "name": "<:grade_S:1284800573249556522> **JENNIE : Rhythm** Mantra",
-      "card_l": 44,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 2,
       "guessname": "<:grade_S:1284800573249556522> **JENNIE : Rhythm**",
       "min": 2500,
-      "max": 1550
+      "max": 1550,
+      "card": 44
     }
   ],
   "JEN_003R_A": [
     {
       "name": "<:grade_A:1284800600466395188> **JENNIE : Rhythm** Mantra",
-      "card_l": 43,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 3,
       "guessname": "<:grade_A:1284800600466395188> **JENNIE : Rhythm**",
       "min": 1500,
-      "max": 1000
+      "max": 1000,
+      "card": 43
     }
   ],
   "JEN_003R_B": [
     {
       "name": "<:grade_B:1284800620901044246> **JENNIE : Rhythm** Mantra",
-      "card_l": 42,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_B:1284800620901044246> **JENNIE : Rhythm**",
       "min": 1000,
-      "max": 500
+      "max": 500,
+      "card": 42
     }
   ],
   "JEN_003R_C": [
     {
       "name": "<:grade_C:1284800642459893812> **JENNIE : Rhythm** Mantra",
-      "card_l": 41,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 5,
       "guessname": "<:grade_C:1284800642459893812> **JENNIE : Rhythm**",
       "min": 500,
-      "max": 0
+      "max": 0,
+      "card": 41
     }
   ],
-"JEN_004V_R": [
+  "JEN_004V_R": [
     {
       "name": "<:grade_R:1284800549245419562> **JENNIE : Vocal** PRETTY GIRL",
-      "card_l": 50,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 1,
       "guessname": "<:grade_R:1284800549245419562> **JENNIE : Vocal**",
       "min": 5000,
-      "max": 2500
+      "max": 2500,
+      "card": 50
     }
   ],
   "JEN_004V_S": [
     {
       "name": "<:grade_S:1284800573249556522> **JENNIE : Vocal** PRETTY GIRL",
-      "card_l": 49,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 2,
       "guessname": "<:grade_S:1284800573249556522> **JENNIE : Vocal**",
       "min": 2500,
-      "max": 1550
+      "max": 1550,
+      "card": 49
     }
   ],
   "JEN_004V_A": [
     {
       "name": "<:grade_A:1284800600466395188> **JENNIE : Vocal** PRETTY GIRL",
-      "card_l": 48,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 3,
       "guessname": "<:grade_A:1284800600466395188> **JENNIE : Vocal**",
       "min": 1500,
-      "max": 1000
+      "max": 1000,
+      "card": 48
     }
   ],
   "JEN_004V_B": [
     {
       "name": "<:grade_B:1284800620901044246> **JENNIE : Vocal** PRETTY GIRL",
-      "card_l": 47,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_B:1284800620901044246> **JENNIE : Vocal**",
       "min": 1000,
-      "max": 500
+      "max": 500,
+      "card": 47
     }
   ],
   "JEN_004V_C": [
     {
       "name": "<:grade_C:1284800642459893812> **JENNIE : Vocal** PRETTY GIRL",
-      "card_l": 46,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 5,
       "guessname": "<:grade_C:1284800642459893812> **JENNIE : Vocal**",
       "min": 500,
-      "max": 0
+      "max": 0,
+      "card": 46
     }
   ],
   "JEN_004D_R": [
     {
       "name": "<:grade_R:1284800549245419562> **JENNIE : Dance** PRETTY GIRL",
-      "card_l": 55,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 1,
       "guessname": "<:grade_R:1284800549245419562> **JENNIE : Dance**",
       "min": 5000,
-      "max": 2500
+      "max": 2500,
+      "card": 55
     }
   ],
   "JEN_004D_S": [
     {
       "name": "<:grade_S:1284800573249556522> **JENNIE : Dance** PRETTY GIRL",
-      "card_l": 54,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 2,
       "guessname": "<:grade_S:1284800573249556522> **JENNIE : Dance**",
       "min": 2500,
-      "max": 1550
+      "max": 1550,
+      "card": 54
     }
   ],
   "JEN_004D_A": [
     {
       "name": "<:grade_A:1284800600466395188> **JENNIE : Dance** PRETTY GIRL",
-      "card_l": 53,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 3,
       "guessname": "<:grade_A:1284800600466395188> **JENNIE : Dance**",
       "min": 1500,
-      "max": 1000
+      "max": 1000,
+      "card": 53
     }
   ],
   "JEN_004D_B": [
     {
       "name": "<:grade_B:1284800620901044246> **JENNIE : Dance** PRETTY GIRL",
-      "card_l": 52,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_B:1284800620901044246> **JENNIE : Dance**",
       "min": 1000,
-      "max": 500
+      "max": 500,
+      "card": 52
     }
   ],
   "JEN_004D_C": [
     {
       "name": "<:grade_C:1284800642459893812> **JENNIE : Dance** PRETTY GIRL",
-      "card_l": 51,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 5,
       "guessname": "<:grade_C:1284800642459893812> **JENNIE : Dance**",
       "min": 500,
-      "max": 0
+      "max": 0,
+      "card": 51
     }
   ],
   "JEN_004R_R": [
     {
       "name": "<:grade_R:1284800549245419562> **JENNIE : Rhythm** PRETTY GIRL",
-      "card_l": 60,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_R:1284800549245419562> **JENNIE : Rhythm**",
       "min": 5000,
-      "max": 2500
+      "max": 2500,
+      "card": 60
     }
   ],
   "JEN_004R_S": [
     {
       "name": "<:grade_S:1284800573249556522> **JENNIE : Rhythm** PRETTY GIRL",
-      "card_l": 59,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 2,
       "guessname": "<:grade_S:1284800573249556522> **JENNIE : Rhythm**",
       "min": 2500,
-      "max": 1550
+      "max": 1550,
+      "card": 59
     }
   ],
   "JEN_004R_A": [
     {
       "name": "<:grade_A:1284800600466395188> **JENNIE : Rhythm** PRETTY GIRL",
-      "card_l": 58,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 3,
       "guessname": "<:grade_A:1284800600466395188> **JENNIE : Rhythm**",
       "min": 1500,
-      "max": 1000
+      "max": 1000,
+      "card": 58
     }
   ],
   "JEN_004R_B": [
     {
       "name": "<:grade_B:1284800620901044246> **JENNIE : Rhythm** PRETTY GIRL",
-      "card_l": 57,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 4,
       "guessname": "<:grade_B:1284800620901044246> **JENNIE : Rhythm**",
       "min": 1000,
-      "max": 500
+      "max": 500,
+      "card": 57
     }
   ],
   "JEN_004R_C": [
     {
       "name": "<:grade_C:1284800642459893812> **JENNIE : Rhythm** PRETTY GIRL",
-      "card_l": 56,
-      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
       "artist": "JENNIE",
       "guess": 5,
       "guessname": "<:grade_C:1284800642459893812> **JENNIE : Rhythm**",
       "min": 500,
-      "max": 0
+      "max": 0,
+      "card": 56
+    }
+  ],
+  "BPJS_001_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO**",
+      "min": 5000,
+      "max": 2500,
+      "card": 65
+    }
+  ],
+  "BPJS_001_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO**",
+      "min": 2500,
+      "max": 1550,
+      "card": 64
+    }
+  ],
+  "BPJS_001_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO**",
+      "min": 1500,
+      "max": 1000,
+      "card": 63
+    }
+  ],
+  "BPJS_001_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO**",
+      "min": 1000,
+      "max": 500,
+      "card": 62
+    }
+  ],
+  "BPJS_001_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO**",
+      "min": 500,
+      "max": 0,
+      "card": 61
+    }
+  ],
+  "BPJN_001_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE**",
+      "min": 5000,
+      "max": 2500,
+      "card": 70
+    }
+  ],
+  "BPJN_001_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE**",
+      "min": 2500,
+      "max": 1550,
+      "card": 69
+    }
+  ],
+  "BPJN_001_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE**",
+      "min": 1500,
+      "max": 1000,
+      "card": 68
+    }
+  ],
+  "BPJN_001_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE**",
+      "min": 1000,
+      "max": 500,
+      "card": 67
+    }
+  ],
+  "BPJN_001_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE**",
+      "min": 500,
+      "max": 0,
+      "card": 66
+    }
+  ],
+  "BPRS_001_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ**",
+      "min": 5000,
+      "max": 2500,
+      "card": 75
+    }
+  ],
+  "BPRS_001_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ**",
+      "min": 2500,
+      "max": 1550,
+      "card": 74
+    }
+  ],
+  "BPRS_001_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ**",
+      "min": 1500,
+      "max": 1000,
+      "card": 73
+    }
+  ],
+  "BPRS_001_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ**",
+      "min": 1000,
+      "max": 500,
+      "card": 72
+    }
+  ],
+  "BPRS_001_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ**",
+      "min": 500,
+      "max": 0,
+      "card": 71
+    }
+  ],
+  "BPLS_001_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : LISA** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : LISA**",
+      "min": 5000,
+      "max": 2500,
+      "card": 80
+    }
+  ],
+  "BPLS_001_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : LISA** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : LISA**",
+      "min": 2500,
+      "max": 1550,
+      "card": 79
+    }
+  ],
+  "BPLS_001_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : LISA** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : LISA**",
+      "min": 1500,
+      "max": 1000,
+      "card": 78
+    }
+  ],
+  "BPLS_001_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : LISA** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : LISA**",
+      "min": 1000,
+      "max": 500,
+      "card": 77
+    }
+  ],
+  "BPLS_001_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : LISA** How You Like That",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : LISA**",
+      "min": 500,
+      "max": 0,
+      "card": 76
+    }
+  ],
+   "BPJS_002_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO**",
+      "min": 5000,
+      "max": 2500,
+      "card": 85
+    }
+  ],
+  "BPJS_002_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO**",
+      "min": 2500,
+      "max": 1550,
+      "card": 84
+    }
+  ],
+  "BPJS_002_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO**",
+      "min": 1500,
+      "max": 1000,
+      "card": 83
+    }
+  ],
+  "BPJS_002_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO**",
+      "min": 1000,
+      "max": 500,
+      "card": 82
+    }
+  ],
+  "BPJS_002_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO**",
+      "min": 500,
+      "max": 0,
+      "card": 81
+    }
+  ],
+  "BPJN_002_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE**",
+      "min": 5000,
+      "max": 2500,
+      "card": 90
+    }
+  ],
+  "BPJN_002_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE**",
+      "min": 2500,
+      "max": 1550,
+      "card": 89
+    }
+  ],
+  "BPJN_002_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE**",
+      "min": 1500,
+      "max": 1000,
+      "card": 88
+    }
+  ],
+  "BPJN_002_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE**",
+      "min": 1000,
+      "max": 500,
+      "card": 87
+    }
+  ],
+  "BPJN_002_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE**",
+      "min": 500,
+      "max": 0,
+      "card": 86
+    }
+  ],
+  "BPRS_002_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ**",
+      "min": 5000,
+      "max": 2500,
+      "card": 95
+    }
+  ],
+  "BPRS_002_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ**",
+      "min": 2500,
+      "max": 1550,
+      "card": 94
+    }
+  ],
+  "BPRS_002_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ**",
+      "min": 1500,
+      "max": 1000,
+      "card": 93
+    }
+  ],
+  "BPRS_002_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ**",
+      "min": 1000,
+      "max": 500,
+      "card": 92
+    }
+  ],
+  "BPRS_002_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ**",
+      "min": 500,
+      "max": 0,
+      "card": 91
+    }
+  ],
+  "BPLS_002_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : LISA** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : LISA**",
+      "min": 5000,
+      "max": 2500,
+      "card": 100
+    }
+  ],
+  "BPLS_002_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : LISA** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : LISA**",
+      "min": 2500,
+      "max": 1550,
+      "card": 99
+    }
+  ],
+  "BPLS_002_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : LISA** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : LISA**",
+      "min": 1500,
+      "max": 1000,
+      "card": 98
+    }
+  ],
+  "BPLS_002_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : LISA** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : LISA**",
+      "min": 1000,
+      "max": 500,
+      "card": 97
+    }
+  ],
+  "BPLS_002_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : LISA** AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : LISA**",
+      "min": 500,
+      "max": 0,
+      "card": 96
+    }
+  ],
+   "BPJS_003_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO**",
+      "min": 5000,
+      "max": 2500,
+      "card": 105
+    }
+  ],
+  "BPJS_003_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO**",
+      "min": 2500,
+      "max": 1550,
+      "card": 104
+    }
+  ],
+  "BPJS_003_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO**",
+      "min": 1500,
+      "max": 1000,
+      "card": 103
+    }
+  ],
+  "BPJS_003_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO**",
+      "min": 1000,
+      "max": 500,
+      "card": 102
+    }
+  ],
+  "BPJS_003_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO**",
+      "min": 500,
+      "max": 0,
+      "card": 101
+    }
+  ],
+  "BPJN_003_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE**",
+      "min": 5000,
+      "max": 2500,
+      "card": 110
+    }
+  ],
+  "BPJN_003_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE**",
+      "min": 2500,
+      "max": 1550,
+      "card": 109
+    }
+  ],
+  "BPJN_003_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE**",
+      "min": 1500,
+      "max": 1000,
+      "card": 108
+    }
+  ],
+  "BPJN_003_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE**",
+      "min": 1000,
+      "max": 500,
+      "card": 107
+    }
+  ],
+  "BPJN_003_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE**",
+      "min": 500,
+      "max": 0,
+      "card": 106
+    }
+  ],
+  "BPRS_003_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ**",
+      "min": 5000,
+      "max": 2500,
+      "card": 115
+    }
+  ],
+  "BPRS_003_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ**",
+      "min": 2500,
+      "max": 1550,
+      "card": 114
+    }
+  ],
+  "BPRS_003_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ**",
+      "min": 1500,
+      "max": 1000,
+      "card": 113
+    }
+  ],
+  "BPRS_003_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ**",
+      "min": 1000,
+      "max": 500,
+      "card": 112
+    }
+  ],
+  "BPRS_003_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ**",
+      "min": 500,
+      "max": 0,
+      "card": 111
+    }
+  ],
+  "BPLS_003_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : LISA** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : LISA**",
+      "min": 5000,
+      "max": 2500,
+      "card": 120
+    }
+  ],
+  "BPLS_003_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : LISA** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : LISA**",
+      "min": 2500,
+      "max": 1550,
+      "card": 119
+    }
+  ],
+  "BPLS_003_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : LISA** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : LISA**",
+      "min": 1500,
+      "max": 1000,
+      "card": 118
+    }
+  ],
+  "BPLS_003_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : LISA** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : LISA**",
+      "min": 1000,
+      "max": 500,
+      "card": 117
+    }
+  ],
+  "BPLS_003_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : LISA** Lovesick Girls",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : LISA**",
+      "min": 500,
+      "max": 0,
+      "card": 116
+    }
+  ],
+   "BPJS_004_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO**",
+      "min": 5000,
+      "max": 2500,
+      "card": 125
+    }
+  ],
+  "BPJS_004_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO**",
+      "min": 2500,
+      "max": 1550,
+      "card": 124
+    }
+  ],
+  "BPJS_004_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO**",
+      "min": 1500,
+      "max": 1000,
+      "card": 123
+    }
+  ],
+  "BPJS_004_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO**",
+      "min": 1000,
+      "max": 500,
+      "card": 122
+    }
+  ],
+  "BPJS_004_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO**",
+      "min": 500,
+      "max": 0,
+      "card": 121
+    }
+  ],
+  "BPJN_004_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE**",
+      "min": 5000,
+      "max": 2500,
+      "card": 130
+    }
+  ],
+  "BPJN_004_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE**",
+      "min": 2500,
+      "max": 1550,
+      "card": 129
+    }
+  ],
+  "BPJN_004_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE**",
+      "min": 1500,
+      "max": 1000,
+      "card": 128
+    }
+  ],
+  "BPJN_004_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE**",
+      "min": 1000,
+      "max": 500,
+      "card": 127
+    }
+  ],
+  "BPJN_004_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE**",
+      "min": 500,
+      "max": 0,
+      "card": 126
+    }
+  ],
+  "BPRS_004_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ**",
+      "min": 5000,
+      "max": 2500,
+      "card": 135
+    }
+  ],
+  "BPRS_004_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ**",
+      "min": 2500,
+      "max": 1550,
+      "card": 134
+    }
+  ],
+  "BPRS_004_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ**",
+      "min": 1500,
+      "max": 1000,
+      "card": 133
+    }
+  ],
+  "BPRS_004_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ**",
+      "min": 1000,
+      "max": 500,
+      "card": 132
+    }
+  ],
+  "BPRS_004_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ**",
+      "min": 500,
+      "max": 0,
+      "card": 131
+    }
+  ],
+  "BPLS_004_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : LISA** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : LISA**",
+      "min": 5000,
+      "max": 2500,
+      "card": 140
+    }
+  ],
+  "BPLS_004_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : LISA** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : LISA**",
+      "min": 2500,
+      "max": 1550,
+      "card": 139
+    }
+  ],
+  "BPLS_004_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : LISA** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : LISA**",
+      "min": 1500,
+      "max": 1000,
+      "card": 138
+    }
+  ],
+  "BPLS_004_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : LISA** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : LISA**",
+      "min": 1000,
+      "max": 500,
+      "card": 137
+    }
+  ],
+  "BPLS_004_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : LISA** See U Later",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : LISA**",
+      "min": 500,
+      "max": 0,
+      "card": 136
+    }
+  ],
+   "BPJS_005_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO**",
+      "min": 5000,
+      "max": 2500,
+      "card": 205
+    }
+  ],
+  "BPJS_005_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO**",
+      "min": 2500,
+      "max": 1550,
+      "card": 204
+    }
+  ],
+  "BPJS_005_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO**",
+      "min": 1500,
+      "max": 1000,
+      "card": 203
+    }
+  ],
+  "BPJS_005_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO**",
+      "min": 1000,
+      "max": 500,
+      "card": 202
+    }
+  ],
+  "BPJS_005_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO**",
+      "min": 500,
+      "max": 0,
+      "card": 201
+    }
+  ],
+  "BPJN_005_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE**",
+      "min": 5000,
+      "max": 2500,
+      "card": 210
+    }
+  ],
+  "BPJN_005_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE**",
+      "min": 2500,
+      "max": 1550,
+      "card": 209
+    }
+  ],
+  "BPJN_005_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE**",
+      "min": 1500,
+      "max": 1000,
+      "card": 208
+    }
+  ],
+  "BPJN_005_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE**",
+      "min": 1000,
+      "max": 500,
+      "card": 207
+    }
+  ],
+  "BPJN_005_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE**",
+      "min": 500,
+      "max": 0,
+      "card": 206
+    }
+  ],
+  "BPRS_005_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ**",
+      "min": 5000,
+      "max": 2500,
+      "card": 215
+    }
+  ],
+  "BPRS_005_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ**",
+      "min": 2500,
+      "max": 1550,
+      "card": 214
+    }
+  ],
+  "BPRS_005_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ**",
+      "min": 1500,
+      "max": 1000,
+      "card": 213
+    }
+  ],
+  "BPRS_005_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ**",
+      "min": 1000,
+      "max": 500,
+      "card": 212
+    }
+  ],
+  "BPRS_005_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ**",
+      "min": 500,
+      "max": 0,
+      "card": 211
+    }
+  ],
+  "BPLS_005_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : LISA** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : LISA**",
+      "min": 5000,
+      "max": 2500,
+      "card": 220
+    }
+  ],
+  "BPLS_005_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : LISA** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : LISA**",
+      "min": 2500,
+      "max": 1550,
+      "card": 219
+    }
+  ],
+  "BPLS_005_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : LISA** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : LISA**",
+      "min": 1500,
+      "max": 1000,
+      "card": 218
+    }
+  ],
+  "BPLS_005_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : LISA** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : LISA**",
+      "min": 1000,
+      "max": 500,
+      "card": 217
+    }
+  ],
+  "BPLS_005_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : LISA** still looking for love",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : LISA**",
+      "min": 500,
+      "max": 0,
+      "card": 216
+    }
+  ],
+   "BPJS_006_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO**",
+      "min": 5000,
+      "max": 2500,
+      "card": 145
+    }
+  ],
+  "BPJS_006_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO**",
+      "min": 2500,
+      "max": 1550,
+      "card": 144
+    }
+  ],
+  "BPJS_006_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO**",
+      "min": 1500,
+      "max": 1000,
+      "card": 143
+    }
+  ],
+  "BPJS_006_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO**",
+      "min": 1000,
+      "max": 500,
+      "card": 142
+    }
+  ],
+  "BPJS_006_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO**",
+      "min": 500,
+      "max": 0,
+      "card": 141
+    }
+  ],
+  "BPJN_006_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE**",
+      "min": 5000,
+      "max": 2500,
+      "card": 150
+    }
+  ],
+  "BPJN_006_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE**",
+      "min": 2500,
+      "max": 1550,
+      "card": 149
+    }
+  ],
+  "BPJN_006_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE**",
+      "min": 1500,
+      "max": 1000,
+      "card": 148
+    }
+  ],
+  "BPJN_006_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE**",
+      "min": 1000,
+      "max": 500,
+      "card": 147
+    }
+  ],
+  "BPJN_006_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE**",
+      "min": 500,
+      "max": 0,
+      "card": 146
+    }
+  ],
+  "BPRS_006_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ**",
+      "min": 5000,
+      "max": 2500,
+      "card": 155
+    }
+  ],
+  "BPRS_006_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ**",
+      "min": 2500,
+      "max": 1550,
+      "card": 154
+    }
+  ],
+  "BPRS_006_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ**",
+      "min": 1500,
+      "max": 1000,
+      "card": 153
+    }
+  ],
+  "BPRS_006_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ**",
+      "min": 1000,
+      "max": 500,
+      "card": 152
+    }
+  ],
+  "BPRS_006_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ**",
+      "min": 500,
+      "max": 0,
+      "card": 151
+    }
+  ],
+  "BPLS_006_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : LISA** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : LISA**",
+      "min": 5000,
+      "max": 2500,
+      "card": 160
+    }
+  ],
+  "BPLS_006_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : LISA** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : LISA**",
+      "min": 2500,
+      "max": 1550,
+      "card": 159
+    }
+  ],
+  "BPLS_006_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : LISA** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : LISA**",
+      "min": 1500,
+      "max": 1000,
+      "card": 158
+    }
+  ],
+  "BPLS_006_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : LISA** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : LISA**",
+      "min": 1000,
+      "max": 500,
+      "card": 157
+    }
+  ],
+  "BPLS_006_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : LISA** Hope Not",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : LISA**",
+      "min": 500,
+      "max": 0,
+      "card": 156
+    }
+  ],
+   "BPJS_007_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO**",
+      "min": 5000,
+      "max": 2500,
+      "card": 165
+    }
+  ],
+  "BPJS_007_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO**",
+      "min": 2500,
+      "max": 1550,
+      "card": 164
+    }
+  ],
+  "BPJS_007_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO**",
+      "min": 1500,
+      "max": 1000,
+      "card": 163
+    }
+  ],
+  "BPJS_007_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO**",
+      "min": 1000,
+      "max": 500,
+      "card": 162
+    }
+  ],
+  "BPJS_007_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO**",
+      "min": 500,
+      "max": 0,
+      "card": 161
+    }
+  ],
+  "BPJN_007_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE**",
+      "min": 5000,
+      "max": 2500,
+      "card": 170
+    }
+  ],
+  "BPJN_007_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE**",
+      "min": 2500,
+      "max": 1550,
+      "card": 169
+    }
+  ],
+  "BPJN_007_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE**",
+      "min": 1500,
+      "max": 1000,
+      "card": 168
+    }
+  ],
+  "BPJN_007_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE**",
+      "min": 1000,
+      "max": 500,
+      "card": 167
+    }
+  ],
+  "BPJN_007_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE**",
+      "min": 500,
+      "max": 0,
+      "card": 166
+    }
+  ],
+  "BPRS_007_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ**",
+      "min": 5000,
+      "max": 2500,
+      "card": 175
+    }
+  ],
+  "BPRS_007_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ**",
+      "min": 2500,
+      "max": 1550,
+      "card": 174
+    }
+  ],
+  "BPRS_007_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ**",
+      "min": 1500,
+      "max": 1000,
+      "card": 173
+    }
+  ],
+  "BPRS_007_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ**",
+      "min": 1000,
+      "max": 500,
+      "card": 172
+    }
+  ],
+  "BPRS_007_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ**",
+      "min": 500,
+      "max": 0,
+      "card": 171
+    }
+  ],
+  "BPLS_007_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : LISA** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : LISA**",
+      "min": 5000,
+      "max": 2500,
+      "card": 180
+    }
+  ],
+  "BPLS_007_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : LISA** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : LISA**",
+      "min": 2500,
+      "max": 1550,
+      "card": 179
+    }
+  ],
+  "BPLS_007_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : LISA** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : LISA**",
+      "min": 1500,
+      "max": 1000,
+      "card": 178
+    }
+  ],
+  "BPLS_007_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : LISA** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : LISA**",
+      "min": 1000,
+      "max": 500,
+      "card": 177
+    }
+  ],
+  "BPLS_007_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : LISA** Kill This Love",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : LISA**",
+      "min": 500,
+      "max": 0,
+      "card": 176
+    }
+  ],
+   "BPJS_008_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO**",
+      "min": 5000,
+      "max": 2500,
+      "card": 185
+    }
+  ],
+  "BPJS_008_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO**",
+      "min": 2500,
+      "max": 1550,
+      "card": 184
+    }
+  ],
+  "BPJS_008_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO**",
+      "min": 1500,
+      "max": 1000,
+      "card": 183
+    }
+  ],
+  "BPJS_008_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO**",
+      "min": 1000,
+      "max": 500,
+      "card": 182
+    }
+  ],
+  "BPJS_008_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO**",
+      "min": 500,
+      "max": 0,
+      "card": 181
+    }
+  ],
+  "BPJN_008_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE**",
+      "min": 5000,
+      "max": 2500,
+      "card": 190
+    }
+  ],
+  "BPJN_008_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE**",
+      "min": 2500,
+      "max": 1550,
+      "card": 189
+    }
+  ],
+  "BPJN_008_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE**",
+      "min": 1500,
+      "max": 1000,
+      "card": 188
+    }
+  ],
+  "BPJN_008_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE**",
+      "min": 1000,
+      "max": 500,
+      "card": 187
+    }
+  ],
+  "BPJN_008_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE**",
+      "min": 500,
+      "max": 0,
+      "card": 186
+    }
+  ],
+  "BPRS_008_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ**",
+      "min": 5000,
+      "max": 2500,
+      "card": 195
+    }
+  ],
+  "BPRS_008_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ**",
+      "min": 2500,
+      "max": 1550,
+      "card": 194
+    }
+  ],
+  "BPRS_008_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ**",
+      "min": 1500,
+      "max": 1000,
+      "card": 193
+    }
+  ],
+  "BPRS_008_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ**",
+      "min": 1000,
+      "max": 500,
+      "card": 192
+    }
+  ],
+  "BPRS_008_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ**",
+      "min": 500,
+      "max": 0,
+      "card": 191
+    }
+  ],
+  "BPLS_008_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : LISA** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : LISA**",
+      "min": 5000,
+      "max": 2500,
+      "card": 200
+    }
+  ],
+  "BPLS_008_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : LISA** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : LISA**",
+      "min": 2500,
+      "max": 1550,
+      "card": 199
+    }
+  ],
+  "BPLS_008_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : LISA** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : LISA**",
+      "min": 1500,
+      "max": 1000,
+      "card": 198
+    }
+  ],
+  "BPLS_008_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : LISA** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : LISA**",
+      "min": 1000,
+      "max": 500,
+      "card": 197
+    }
+  ],
+  "BPLS_008_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : LISA** Love To Hate Me",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : LISA**",
+      "min": 500,
+      "max": 0,
+      "card": 196
+    }
+  ],
+   "BPJS_009_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO**",
+      "min": 5000,
+      "max": 2500,
+      "card": 225
+    }
+  ],
+  "BPJS_009_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO**",
+      "min": 2500,
+      "max": 1550,
+      "card": 224
+    }
+  ],
+  "BPJS_009_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO**",
+      "min": 1500,
+      "max": 1000,
+      "card": 223
+    }
+  ],
+  "BPJS_009_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO**",
+      "min": 1000,
+      "max": 500,
+      "card": 222
+    }
+  ],
+  "BPJS_009_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO**",
+      "min": 500,
+      "max": 0,
+      "card": 221
+    }
+  ],
+  "BPJN_009_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE**",
+      "min": 5000,
+      "max": 2500,
+      "card": 230
+    }
+  ],
+  "BPJN_009_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE**",
+      "min": 2500,
+      "max": 1550,
+      "card": 229
+    }
+  ],
+  "BPJN_009_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE**",
+      "min": 1500,
+      "max": 1000,
+      "card": 228
+    }
+  ],
+  "BPJN_009_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE**",
+      "min": 1000,
+      "max": 500,
+      "card": 227
+    }
+  ],
+  "BPJN_009_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE**",
+      "min": 500,
+      "max": 0,
+      "card": 226
+    }
+  ],
+  "BPRS_009_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ**",
+      "min": 5000,
+      "max": 2500,
+      "card": 235
+    }
+  ],
+  "BPRS_009_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ**",
+      "min": 2500,
+      "max": 1550,
+      "card": 234
+    }
+  ],
+  "BPRS_009_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ**",
+      "min": 1500,
+      "max": 1000,
+      "card": 233
+    }
+  ],
+  "BPRS_009_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ**",
+      "min": 1000,
+      "max": 500,
+      "card": 232
+    }
+  ],
+  "BPRS_009_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ**",
+      "min": 500,
+      "max": 0,
+      "card": 231
+    }
+  ],
+  "BPLS_009_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : LISA** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : LISA**",
+      "min": 5000,
+      "max": 2500,
+      "card": 240
+    }
+  ],
+  "BPLS_009_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : LISA** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : LISA**",
+      "min": 2500,
+      "max": 1550,
+      "card": 239
+    }
+  ],
+  "BPLS_009_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : LISA** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : LISA**",
+      "min": 1500,
+      "max": 1000,
+      "card": 238
+    }
+  ],
+  "BPLS_009_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : LISA** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : LISA**",
+      "min": 1000,
+      "max": 500,
+      "card": 237
+    }
+  ],
+  "BPLS_009_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : LISA** PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : LISA**",
+      "min": 500,
+      "max": 0,
+      "card": 236
+    }
+  ],
+   "BPJS_010_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JISOO**",
+      "min": 5000,
+      "max": 2500,
+      "card": 245
+    }
+  ],
+  "BPJS_010_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JISOO**",
+      "min": 2500,
+      "max": 1550,
+      "card": 244
+    }
+  ],
+  "BPJS_010_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JISOO**",
+      "min": 1500,
+      "max": 1000,
+      "card": 243
+    }
+  ],
+  "BPJS_010_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JISOO**",
+      "min": 1000,
+      "max": 500,
+      "card": 242
+    }
+  ],
+  "BPJS_010_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JISOO**",
+      "min": 500,
+      "max": 0,
+      "card": 241
+    }
+  ],
+  "BPJN_010_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : JENNIE**",
+      "min": 5000,
+      "max": 2500,
+      "card": 250
+    }
+  ],
+  "BPJN_010_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : JENNIE**",
+      "min": 2500,
+      "max": 1550,
+      "card": 249
+    }
+  ],
+  "BPJN_010_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : JENNIE**",
+      "min": 1500,
+      "max": 1000,
+      "card": 248
+    }
+  ],
+  "BPJN_010_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : JENNIE**",
+      "min": 1000,
+      "max": 500,
+      "card": 247
+    }
+  ],
+  "BPJN_010_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : JENNIE**",
+      "min": 500,
+      "max": 0,
+      "card": 246
+    }
+  ],
+  "BPRS_010_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : ROSÉ**",
+      "min": 5000,
+      "max": 2500,
+      "card": 255
+    }
+  ],
+  "BPRS_010_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : ROSÉ**",
+      "min": 2500,
+      "max": 1550,
+      "card": 254
+    }
+  ],
+  "BPRS_010_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : ROSÉ**",
+      "min": 1500,
+      "max": 1000,
+      "card": 253
+    }
+  ],
+  "BPRS_010_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : ROSÉ**",
+      "min": 1000,
+      "max": 500,
+      "card": 252
+    }
+  ],
+  "BPRS_010_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : ROSÉ**",
+      "min": 500,
+      "max": 0,
+      "card": 251
+    }
+  ],
+  "BPLS_010_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **BLACKPINK : LISA** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **BLACKPINK : LISA**",
+      "min": 5000,
+      "max": 2500,
+      "card": 260
+    }
+  ],
+  "BPLS_010_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **BLACKPINK : LISA** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **BLACKPINK : LISA**",
+      "min": 2500,
+      "max": 1550,
+      "card": 259
+    }
+  ],
+  "BPLS_010_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **BLACKPINK : LISA** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **BLACKPINK : LISA**",
+      "min": 1500,
+      "max": 1000,
+      "card": 258
+    }
+  ],
+  "BPLS_010_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **BLACKPINK : LISA** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **BLACKPINK : LISA**",
+      "min": 1000,
+      "max": 500,
+      "card": 257
+    }
+  ],
+  "BPLS_010_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **BLACKPINK : LISA** WHISTLE",
+      "artist": "BLACKPINK",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **BLACKPINK : LISA**",
+      "min": 500,
+      "max": 0,
+      "card": 256
     }
   ]
+  
+  
 }

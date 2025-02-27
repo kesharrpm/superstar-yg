@@ -358,5 +358,365 @@
       "min": 500,
       "max": 0
     }
+  ],
+  "JEN_003V_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **JENNIE : Vocal** Mantra",
+      "card_l": 35,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 1,
+      "guessname": "<:grade_R:1284800549245419562> **JENNIE : Vocal**",
+      "min": 5000,
+      "max": 2500
+    }
+  ],
+  "JEN_003V_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **JENNIE : Vocal** Mantra",
+      "card_l": 34,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **JENNIE : Vocal**",
+      "min": 2500,
+      "max": 1550
+    }
+  ],
+  "JEN_003V_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **JENNIE : Vocal** Mantra",
+      "card_l": 33,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **JENNIE : Vocal**",
+      "min": 1500,
+      "max": 1000
+    }
+  ],
+  "JEN_003V_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **JENNIE : Vocal** Mantra",
+      "card_l": 32,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **JENNIE : Vocal**",
+      "min": 1000,
+      "max": 500
+    }
+  ],
+  "JEN_003V_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **JENNIE : Vocal** Mantra",
+      "card_l": 31,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **JENNIE : Vocal**",
+      "min": 500,
+      "max": 0
+    }
+  ],
+  "JEN_003D_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **JENNIE : Dance** Mantra",
+      "card_l": 40,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 1,
+      "guessname": "<:grade_R:1284800549245419562> **JENNIE : Dance**",
+      "min": 5000,
+      "max": 2500
+    }
+  ],
+  "JEN_003D_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **JENNIE : Dance** Mantra",
+      "card_l": 39,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **JENNIE : Dance**",
+      "min": 2500,
+      "max": 1550
+    }
+  ],
+  "JEN_003D_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **JENNIE : Dance** Mantra",
+      "card_l": 38,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **JENNIE : Dance**",
+      "min": 1500,
+      "max": 1000
+    }
+  ],
+  "JEN_003D_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **JENNIE : Dance** Mantra",
+      "card_l": 37,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **JENNIE : Dance**",
+      "min": 1000,
+      "max": 500
+    }
+  ],
+  "JEN_003D_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **JENNIE : Dance** Mantra",
+      "card_l": 36,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **JENNIE : Dance**",
+      "min": 500,
+      "max": 0
+    }
+  ],
+  "JEN_003R_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **JENNIE : Rhythm** Mantra",
+      "card_l": 45,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **JENNIE : Rhythm**",
+      "min": 5000,
+      "max": 2500
+    }
+  ],
+  "JEN_003R_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **JENNIE : Rhythm** Mantra",
+      "card_l": 44,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **JENNIE : Rhythm**",
+      "min": 2500,
+      "max": 1550
+    }
+  ],
+  "JEN_003R_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **JENNIE : Rhythm** Mantra",
+      "card_l": 43,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **JENNIE : Rhythm**",
+      "min": 1500,
+      "max": 1000
+    }
+  ],
+  "JEN_003R_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **JENNIE : Rhythm** Mantra",
+      "card_l": 42,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **JENNIE : Rhythm**",
+      "min": 1000,
+      "max": 500
+    }
+  ],
+  "JEN_003R_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **JENNIE : Rhythm** Mantra",
+      "card_l": 41,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_mantra_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **JENNIE : Rhythm**",
+      "min": 500,
+      "max": 0
+    }
+  ],
+"JEN_004V_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **JENNIE : Vocal** PRETTY GIRL",
+      "card_l": 50,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 1,
+      "guessname": "<:grade_R:1284800549245419562> **JENNIE : Vocal**",
+      "min": 5000,
+      "max": 2500
+    }
+  ],
+  "JEN_004V_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **JENNIE : Vocal** PRETTY GIRL",
+      "card_l": 49,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **JENNIE : Vocal**",
+      "min": 2500,
+      "max": 1550
+    }
+  ],
+  "JEN_004V_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **JENNIE : Vocal** PRETTY GIRL",
+      "card_l": 48,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **JENNIE : Vocal**",
+      "min": 1500,
+      "max": 1000
+    }
+  ],
+  "JEN_004V_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **JENNIE : Vocal** PRETTY GIRL",
+      "card_l": 47,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **JENNIE : Vocal**",
+      "min": 1000,
+      "max": 500
+    }
+  ],
+  "JEN_004V_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **JENNIE : Vocal** PRETTY GIRL",
+      "card_l": 46,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **JENNIE : Vocal**",
+      "min": 500,
+      "max": 0
+    }
+  ],
+  "JEN_004D_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **JENNIE : Dance** PRETTY GIRL",
+      "card_l": 55,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 1,
+      "guessname": "<:grade_R:1284800549245419562> **JENNIE : Dance**",
+      "min": 5000,
+      "max": 2500
+    }
+  ],
+  "JEN_004D_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **JENNIE : Dance** PRETTY GIRL",
+      "card_l": 54,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **JENNIE : Dance**",
+      "min": 2500,
+      "max": 1550
+    }
+  ],
+  "JEN_004D_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **JENNIE : Dance** PRETTY GIRL",
+      "card_l": 53,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **JENNIE : Dance**",
+      "min": 1500,
+      "max": 1000
+    }
+  ],
+  "JEN_004D_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **JENNIE : Dance** PRETTY GIRL",
+      "card_l": 52,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **JENNIE : Dance**",
+      "min": 1000,
+      "max": 500
+    }
+  ],
+  "JEN_004D_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **JENNIE : Dance** PRETTY GIRL",
+      "card_l": 51,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **JENNIE : Dance**",
+      "min": 500,
+      "max": 0
+    }
+  ],
+  "JEN_004R_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **JENNIE : Rhythm** PRETTY GIRL",
+      "card_l": 60,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **JENNIE : Rhythm**",
+      "min": 5000,
+      "max": 2500
+    }
+  ],
+  "JEN_004R_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **JENNIE : Rhythm** PRETTY GIRL",
+      "card_l": 59,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **JENNIE : Rhythm**",
+      "min": 2500,
+      "max": 1550
+    }
+  ],
+  "JEN_004R_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **JENNIE : Rhythm** PRETTY GIRL",
+      "card_l": 58,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **JENNIE : Rhythm**",
+      "min": 1500,
+      "max": 1000
+    }
+  ],
+  "JEN_004R_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **JENNIE : Rhythm** PRETTY GIRL",
+      "card_l": 57,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **JENNIE : Rhythm**",
+      "min": 1000,
+      "max": 500
+    }
+  ],
+  "JEN_004R_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **JENNIE : Rhythm** PRETTY GIRL",
+      "card_l": 56,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@live@@250227jennie@@c_l_pretty_girl_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **JENNIE : Rhythm**",
+      "min": 500,
+      "max": 0
+    }
   ]
 }

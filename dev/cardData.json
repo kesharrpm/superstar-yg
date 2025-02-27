@@ -1,362 +1,362 @@
 {
-   "JEN_001V_R":[
-      {
-         "name":"<:grade_R:1284800549245419562> **JENNIE : Vocal** SOLO",
-         "card_l":4,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":1,
-         "guessname":"<:grade_R:1284800549245419562> **JENNIE : Vocal**",
-         "min":5000,
-         "max":2500
-      }
-   ],
-   "JEN_001V_S":[
-      {
-         "name":"<:grade_S:1284800573249556522> **JENNIE : Vocal** SOLO",
-         "card_l":3,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":2,
-         "guessname":"<:grade_S:1284800573249556522> **JENNIE : Vocal**",
-         "min":2500,
-         "max":1550
-      }
-   ],
-   "JEN_001V_A":[
-      {
-         "name":"<:grade_A:1284800600466395188> **JENNIE : Vocal** SOLO",
-         "card_l":2,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":3,
-         "guessname":"<:grade_A:1284800600466395188> **JENNIE : Vocal**",
-         "min":1500,
-         "max":1000
-      }
-   ],
-   "JEN_001V_B":[
-      {
-         "name":"<:grade_B:1284800620901044246> **JENNIE : Vocal** SOLO",
-         "card_l":1,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":4,
-         "guessname":"<:grade_B:1284800620901044246> **JENNIE : Vocal**",
-         "min":1000,
-         "max":500
-      }
-   ],
-   "JEN_001V_C":[
-      {
-         "name":"<:grade_C:1284800642459893812> **JENNIE : Vocal** SOLO",
-         "card_l":0,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":5,
-         "guessname":"<:grade_C:1284800642459893812> **JENNIE : Vocal**",
-         "min":500,
-         "max":0
-      }
-   ],
-   "JEN_001D_R":[
-      {
-         "name":"<:grade_R:1284800549245419562> **JENNIE : Dance** SOLO",
-         "card_l":9,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":1,
-         "guessname":"<:grade_R:1284800549245419562> **JENNIE : Dance**",
-         "min":5000,
-         "max":2500
-      }
-   ],
-   "JEN_001D_S":[
-      {
-         "name":"<:grade_S:1284800573249556522> **JENNIE : Dance** SOLO",
-         "card_l":8,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":2,
-         "guessname":"<:grade_S:1284800573249556522> **JENNIE : Dance**",
-         "min":2500,
-         "max":1550
-      }
-   ],
-   "JEN_001D_A":[
-      {
-         "name":"<:grade_A:1284800600466395188> **JENNIE : Dance** SOLO",
-         "card_l":7,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":3,
-         "guessname":"<:grade_A:1284800600466395188> **JENNIE : Dance**",
-         "min":1500,
-         "max":1000
-      }
-   ],
-   "JEN_001D_B":[
-      {
-         "name":"<:grade_B:1284800620901044246> **JENNIE : Dance** SOLO",
-         "card_l":6,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":4,
-         "guessname":"<:grade_B:1284800620901044246> **JENNIE : Dance**",
-         "min":1000,
-         "max":500
-      }
-   ],
-   "JEN_001D_C":[
-      {
-         "name":"<:grade_C:1284800642459893812> **JENNIE : Dance** SOLO",
-         "card_l":5,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":5,
-         "guessname":"<:grade_C:1284800642459893812> **JENNIE : Dance**",
-         "min":500,
-         "max":0
-      }
-   ],
-   "JEN_001R_R":[
-      {
-         "name":"<:grade_R:1284800549245419562> **JENNIE : Rhythm** SOLO",
-         "card_l":14,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":4,
-         "guessname":"<:grade_R:1284800549245419562> **JENNIE : Rhythm**",
-         "min":5000,
-         "max":2500
-      }
-   ],
-   "JEN_001R_S":[
-      {
-         "name":"<:grade_S:1284800573249556522> **JENNIE : Rhythm** SOLO",
-         "card_l":13,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":2,
-         "guessname":"<:grade_S:1284800573249556522> **JENNIE : Rhythm**",
-         "min":2500,
-         "max":1550
-      }
-   ],
-   "JEN_001R_A":[
-      {
-         "name":"<:grade_A:1284800600466395188> **JENNIE : Rhythm** SOLO",
-         "card_l":12,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":3,
-         "guessname":"<:grade_A:1284800600466395188> **JENNIE : Rhythm**",
-         "min":1500,
-         "max":1000
-      }
-   ],
-   "JEN_001R_B":[
-      {
-         "name":"<:grade_B:1284800620901044246> **JENNIE : Rhythm** SOLO",
-         "card_l":11,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":4,
-         "guessname":"<:grade_B:1284800620901044246> **JENNIE : Rhythm**",
-         "min":1000,
-         "max":500
-      }
-   ],
-   "JEN_001R_C":[
-      {
-         "name":"<:grade_C:1284800642459893812> **JENNIE : Rhythm** SOLO",
-         "card_l":10,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":5,
-         "guessname":"<:grade_C:1284800642459893812> **JENNIE : Rhythm**",
-         "min":500,
-         "max":0
-      }
-   ],
-   "JEN_002V_R":[
-      {
-         "name":"<:grade_R:1284800549245419562> **JENNIE : Vocal** SHINING SOLO",
-         "card_l":19,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":1,
-         "guessname":"<:grade_R:1284800549245419562> **JENNIE : Vocal**",
-         "min":5000,
-         "max":2500
-      }
-   ],
-   "JEN_002V_S":[
-      {
-         "name":"<:grade_S:1284800573249556522> **JENNIE : Vocal** SHINING SOLO",
-         "card_l":18,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":2,
-         "guessname":"<:grade_S:1284800573249556522> **JENNIE : Vocal**",
-         "min":2500,
-         "max":1550
-      }
-   ],
-   "JEN_002V_A":[
-      {
-         "name":"<:grade_A:1284800600466395188> **JENNIE : Vocal** SHINING SOLO",
-         "card_l":17,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":3,
-         "guessname":"<:grade_A:1284800600466395188> **JENNIE : Vocal**",
-         "min":1500,
-         "max":1000
-      }
-   ],
-   "JEN_002V_B":[
-      {
-         "name":"<:grade_B:1284800620901044246> **JENNIE : Vocal** SHINING SOLO",
-         "card_l":16,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":4,
-         "guessname":"<:grade_B:1284800620901044246> **JENNIE : Vocal**",
-         "min":1000,
-         "max":500
-      }
-   ],
-   "JEN_002V_C":[
-      {
-         "name":"<:grade_C:1284800642459893812> **JENNIE : Vocal** SHINING SOLO",
-         "card_l":15,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":5,
-         "guessname":"<:grade_C:1284800642459893812> **JENNIE : Vocal**",
-         "min":500,
-         "max":0
-      }
-   ],
-   "JEN_002D_R":[
-      {
-         "name":"<:grade_R:1284800549245419562> **JENNIE : Dance** SHINING SOLO",
-         "card_l":24,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":1,
-         "guessname":"<:grade_R:1284800549245419562> **JENNIE : Dance**",
-         "min":5000,
-         "max":2500
-      }
-   ],
-   "JEN_002D_S":[
-      {
-         "name":"<:grade_S:1284800573249556522> **JENNIE : Dance** SHINING SOLO",
-         "card_l":23,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":2,
-         "guessname":"<:grade_S:1284800573249556522> **JENNIE : Dance**",
-         "min":2500,
-         "max":1550
-      }
-   ],
-   "JEN_002D_A":[
-      {
-         "name":"<:grade_A:1284800600466395188> **JENNIE : Dance** SHINING SOLO",
-         "card_l":22,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":3,
-         "guessname":"<:grade_A:1284800600466395188> **JENNIE : Dance**",
-         "min":1500,
-         "max":1000
-      }
-   ],
-   "JEN_002D_B":[
-      {
-         "name":"<:grade_B:1284800620901044246> **JENNIE : Dance** SHINING SOLO",
-         "card_l":21,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":4,
-         "guessname":"<:grade_B:1284800620901044246> **JENNIE : Dance**",
-         "min":1000,
-         "max":500
-      }
-   ],
-   "JEN_002D_C":[
-      {
-         "name":"<:grade_C:1284800642459893812> **JENNIE : Dance** SHINING SOLO",
-         "card_l":20,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":5,
-         "guessname":"<:grade_C:1284800642459893812> **JENNIE : Dance**",
-         "min":500,
-         "max":0
-      }
-   ],
-   "JEN_002R_R":[
-      {
-         "name":"<:grade_R:1284800549245419562> **JENNIE : Rhythm** SHINING SOLO",
-         "card_l":29,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":4,
-         "guessname":"<:grade_R:1284800549245419562> **JENNIE : Rhythm**",
-         "min":5000,
-         "max":2500
-      }
-   ],
-   "JEN_002R_S":[
-      {
-         "name":"<:grade_S:1284800573249556522> **JENNIE : Rhythm** SHINING SOLO",
-         "card_l":28,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":2,
-         "guessname":"<:grade_S:1284800573249556522> **JENNIE : Rhythm**",
-         "min":2500,
-         "max":1550
-      }
-   ],
-   "JEN_002R_A":[
-      {
-         "name":"<:grade_A:1284800600466395188> **JENNIE : Rhythm** SHINING SOLO",
-         "card_l":27,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":3,
-         "guessname":"<:grade_A:1284800600466395188> **JENNIE : Rhythm**",
-         "min":1500,
-         "max":1000
-      }
-   ],
-   "JEN_002R_B":[
-      {
-         "name":"<:grade_B:1284800620901044246> **JENNIE : Rhythm** SHINING SOLO",
-         "card_l":26,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":4,
-         "guessname":"<:grade_B:1284800620901044246> **JENNIE : Rhythm**",
-         "min":1000,
-         "max":500
-      }
-   ],
-   "JEN_002R_C":[
-      {
-         "name":"<:grade_C:1284800642459893812> **JENNIE : Rhythm** SHINING SOLO",
-         "card_l":25,
-         "card_s":"https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
-         "artist":"JENNIE",
-         "guess":5,
-         "guessname":"<:grade_C:1284800642459893812> **JENNIE : Rhythm**",
-         "min":500,
-         "max":0
-      }
-   ]
+  "JEN_001V_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **JENNIE : Vocal** SOLO",
+      "card_l": 5,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 1,
+      "guessname": "<:grade_R:1284800549245419562> **JENNIE : Vocal**",
+      "min": 5000,
+      "max": 2500
+    }
+  ],
+  "JEN_001V_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **JENNIE : Vocal** SOLO",
+      "card_l": 4,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **JENNIE : Vocal**",
+      "min": 2500,
+      "max": 1550
+    }
+  ],
+  "JEN_001V_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **JENNIE : Vocal** SOLO",
+      "card_l": 3,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **JENNIE : Vocal**",
+      "min": 1500,
+      "max": 1000
+    }
+  ],
+  "JEN_001V_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **JENNIE : Vocal** SOLO",
+      "card_l": 2,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **JENNIE : Vocal**",
+      "min": 1000,
+      "max": 500
+    }
+  ],
+  "JEN_001V_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **JENNIE : Vocal** SOLO",
+      "card_l": 1,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **JENNIE : Vocal**",
+      "min": 500,
+      "max": 0
+    }
+  ],
+  "JEN_001D_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **JENNIE : Dance** SOLO",
+      "card_l": 10,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 1,
+      "guessname": "<:grade_R:1284800549245419562> **JENNIE : Dance**",
+      "min": 5000,
+      "max": 2500
+    }
+  ],
+  "JEN_001D_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **JENNIE : Dance** SOLO",
+      "card_l": 9,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **JENNIE : Dance**",
+      "min": 2500,
+      "max": 1550
+    }
+  ],
+  "JEN_001D_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **JENNIE : Dance** SOLO",
+      "card_l": 8,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **JENNIE : Dance**",
+      "min": 1500,
+      "max": 1000
+    }
+  ],
+  "JEN_001D_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **JENNIE : Dance** SOLO",
+      "card_l": 7,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **JENNIE : Dance**",
+      "min": 1000,
+      "max": 500
+    }
+  ],
+  "JEN_001D_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **JENNIE : Dance** SOLO",
+      "card_l": 6,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **JENNIE : Dance**",
+      "min": 500,
+      "max": 0
+    }
+  ],
+  "JEN_001R_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **JENNIE : Rhythm** SOLO",
+      "card_l": 15,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **JENNIE : Rhythm**",
+      "min": 5000,
+      "max": 2500
+    }
+  ],
+  "JEN_001R_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **JENNIE : Rhythm** SOLO",
+      "card_l": 14,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **JENNIE : Rhythm**",
+      "min": 2500,
+      "max": 1550
+    }
+  ],
+  "JEN_001R_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **JENNIE : Rhythm** SOLO",
+      "card_l": 13,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **JENNIE : Rhythm**",
+      "min": 1500,
+      "max": 1000
+    }
+  ],
+  "JEN_001R_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **JENNIE : Rhythm** SOLO",
+      "card_l": 12,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **JENNIE : Rhythm**",
+      "min": 1000,
+      "max": 500
+    }
+  ],
+  "JEN_001R_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **JENNIE : Rhythm** SOLO",
+      "card_l": 11,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_solo_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **JENNIE : Rhythm**",
+      "min": 500,
+      "max": 0
+    }
+  ],
+  "JEN_002V_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **JENNIE : Vocal** SHINING SOLO",
+      "card_l": 20,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 1,
+      "guessname": "<:grade_R:1284800549245419562> **JENNIE : Vocal**",
+      "min": 5000,
+      "max": 2500
+    }
+  ],
+  "JEN_002V_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **JENNIE : Vocal** SHINING SOLO",
+      "card_l": 19,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **JENNIE : Vocal**",
+      "min": 2500,
+      "max": 1550
+    }
+  ],
+  "JEN_002V_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **JENNIE : Vocal** SHINING SOLO",
+      "card_l": 18,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **JENNIE : Vocal**",
+      "min": 1500,
+      "max": 1000
+    }
+  ],
+  "JEN_002V_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **JENNIE : Vocal** SHINING SOLO",
+      "card_l": 17,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **JENNIE : Vocal**",
+      "min": 1000,
+      "max": 500
+    }
+  ],
+  "JEN_002V_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **JENNIE : Vocal** SHINING SOLO",
+      "card_l": 16,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_v.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **JENNIE : Vocal**",
+      "min": 500,
+      "max": 0
+    }
+  ],
+  "JEN_002D_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **JENNIE : Dance** SHINING SOLO",
+      "card_l": 25,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 1,
+      "guessname": "<:grade_R:1284800549245419562> **JENNIE : Dance**",
+      "min": 5000,
+      "max": 2500
+    }
+  ],
+  "JEN_002D_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **JENNIE : Dance** SHINING SOLO",
+      "card_l": 24,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **JENNIE : Dance**",
+      "min": 2500,
+      "max": 1550
+    }
+  ],
+  "JEN_002D_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **JENNIE : Dance** SHINING SOLO",
+      "card_l": 23,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **JENNIE : Dance**",
+      "min": 1500,
+      "max": 1000
+    }
+  ],
+  "JEN_002D_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **JENNIE : Dance** SHINING SOLO",
+      "card_l": 22,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **JENNIE : Dance**",
+      "min": 1000,
+      "max": 500
+    }
+  ],
+  "JEN_002D_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **JENNIE : Dance** SHINING SOLO",
+      "card_l": 21,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_d.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **JENNIE : Dance**",
+      "min": 500,
+      "max": 0
+    }
+  ],
+  "JEN_002R_R": [
+    {
+      "name": "<:grade_R:1284800549245419562> **JENNIE : Rhythm** SHINING SOLO",
+      "card_l": 30,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_R:1284800549245419562> **JENNIE : Rhythm**",
+      "min": 5000,
+      "max": 2500
+    }
+  ],
+  "JEN_002R_S": [
+    {
+      "name": "<:grade_S:1284800573249556522> **JENNIE : Rhythm** SHINING SOLO",
+      "card_l": 29,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 2,
+      "guessname": "<:grade_S:1284800573249556522> **JENNIE : Rhythm**",
+      "min": 2500,
+      "max": 1550
+    }
+  ],
+  "JEN_002R_A": [
+    {
+      "name": "<:grade_A:1284800600466395188> **JENNIE : Rhythm** SHINING SOLO",
+      "card_l": 28,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 3,
+      "guessname": "<:grade_A:1284800600466395188> **JENNIE : Rhythm**",
+      "min": 1500,
+      "max": 1000
+    }
+  ],
+  "JEN_002R_B": [
+    {
+      "name": "<:grade_B:1284800620901044246> **JENNIE : Rhythm** SHINING SOLO",
+      "card_l": 27,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 4,
+      "guessname": "<:grade_B:1284800620901044246> **JENNIE : Rhythm**",
+      "min": 1000,
+      "max": 500
+    }
+  ],
+  "JEN_002R_C": [
+    {
+      "name": "<:grade_C:1284800642459893812> **JENNIE : Rhythm** SHINING SOLO",
+      "card_l": 26,
+      "card_s": "https://ik.imagekit.io/superstaryg/tr:lo-true,w-116,h-156:l-image,i-resources@@images@@card@@jennie@@solo@@large@@c_l_shining_solo_jennie_r.png,w-94,l-end:l-image,i-resources@@images@@card_edge@@b[...]",
+      "artist": "JENNIE",
+      "guess": 5,
+      "guessname": "<:grade_C:1284800642459893812> **JENNIE : Rhythm**",
+      "min": 500,
+      "max": 0
+    }
+  ]
 }

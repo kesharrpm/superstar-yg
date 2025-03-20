@@ -64,27 +64,40 @@
 <body>
 
 <div class="container">
-  <h1>Secure File Directory</h1>
+  <h1>SUPERSTAR YG DEV</h1>
   <div id="login-form">
-    <input type="password" id="password" placeholder="Enter Password" />
+    <input type="password" id="password" placeholder="enter password." />
     <button onclick="checkPassword()">Enter</button>
   </div>
 
   <div id="file-list" class="file-list">
-    <h2>Available Files:</h2>
+    <h2>FILE LIST</h2>
     <a href="./file1.html" target="_blank">file1.html</a>
     <a href="./file2.html" target="_blank">file2.html</a>
     <a href="./file3.html" target="_blank">file3.html</a>
+        <a href="./file4.html" target="_blank">file4.html</a>
+        <a href="./file5.html" target="_blank">file5.html</a>
+        <a href="./file6.html" target="_blank">file6.html</a>
+        <a href="./file7.html" target="_blank">file7.html</a>
+        <a href="./file8.html" target="_blank">file8.html</a>
+        <a href="./file9.html" target="_blank">file9.html</a>
+        <a href="./file10.html" target="_blank">file10.html</a>
+        <a href="./file11.html" target="_blank">file11.html</a>
+        <a href="./file12.html" target="_blank">file12.html</a>
     <!-- Add more files here -->
   </div>
 </div>
 
 <script>
-  const correctPassword = "handlebars"; // Change this to your desired password
+<script>
+  // Add multiple valid passwords here
+  const validPasswords = ["handlebars", "dick"];
 
   function checkPassword() {
     const input = document.getElementById("password").value;
-    if (input === correctPassword) {
+    
+    // Check if the entered password exists in the array
+    if (validPasswords.includes(input)) {
       document.getElementById("login-form").style.display = "none";
       document.getElementById("file-list").style.display = "block";
     } else {

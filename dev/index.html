@@ -45,19 +45,41 @@
       display: none;
       margin-top: 20px;
     }
-    .file-list a {
-      display: block;
-      padding: 10px;
+    .file-item {
+      margin-bottom: 10px;
+      display: flex;
+      gap: 5px;
+      align-items: center;
+    }
+    .file-link {
       background-color: #f9f9f9;
-      margin-bottom: 5px;
+      padding: 10px;
       border: 1px solid #ddd;
       border-radius: 5px;
       text-decoration: none;
       color: #333;
       transition: background 0.3s;
+      flex-shrink: 0;
     }
-    .file-list a:hover {
+    .file-link:hover {
       background-color: #eee;
+    }
+    input[type="text"] {
+      flex-grow: 1;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    .copy-btn {
+      background-color: #2196F3;
+      color: white;
+      border: none;
+      padding: 8px 12px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .copy-btn:hover {
+      background-color: #1976D2;
     }
   </style>
 </head>
@@ -66,25 +88,33 @@
 <div class="container">
   <h1>SUPERSTAR YG DEV</h1>
   <div id="login-form">
-    <input type="password" id="password" placeholder="enter password." />
+    <input type="password" id="password" placeholder="Enter password." />
     <button onclick="checkPassword()">Enter</button>
   </div>
 
   <div id="file-list" class="file-list">
     <h2>FILE LIST</h2>
-    <a href="./file1.html" target="_blank">file1.html</a>
-    <a href="./file2.html" target="_blank">file2.html</a>
-    <a href="./file3.html" target="_blank">file3.html</a>
-        <a href="./file4.html" target="_blank">file4.html</a>
-        <a href="./file5.html" target="_blank">file5.html</a>
-        <a href="./file6.html" target="_blank">file6.html</a>
-        <a href="./file7.html" target="_blank">file7.html</a>
-        <a href="./file8.html" target="_blank">file8.html</a>
-        <a href="./file9.html" target="_blank">file9.html</a>
-        <a href="./file10.html" target="_blank">file10.html</a>
-        <a href="./file11.html" target="_blank">file11.html</a>
-        <a href="./file12.html" target="_blank">file12.html</a>
-    <!-- Add more files here -->
+
+    <div class="file-item">
+      <a class="file-link" href="CardData" target="_blank">file1.html</a>
+      <input type="text" value="https://kesharrpm.github.io/superstar-yg/dev/cardData.json" readonly />
+      <button class="copy-btn" onclick="copyLink(this)">Copy</button>
+    </div>
+
+    <div class="file-item">
+      <a class="file-link" href="CardURL" target="_blank">file2.html</a>
+      <input type="text" value="https://kesharrpm.github.io/superstar-yg/dev/cardURL.json" readonly />
+      <button class="copy-btn" onclick="copyLink(this)">Copy</button>
+    </div>
+
+    <div class="file-item">
+      <a class="file-link" href="CardGotchaData" target="_blank">file3.html</a>
+      <input type="text" value="https://kesharrpm.github.io/superstar-yg/dev/cardGotchaData.json" readonly />
+      <button class="copy-btn" onclick="copyLink(this)">Copy</button>
+    </div>
+
+    <!-- Add more files here with the same format -->
+    
   </div>
 </div>
 
@@ -92,6 +122,7 @@
   // Add multiple valid passwords here
   const validPasswords = ["handlebars", "dick"];
 
+  // Function to check password
   function checkPassword() {
     const input = document.getElementById("password").value;
     
@@ -102,6 +133,18 @@
     } else {
       alert("Incorrect password. Please try again.");
     }
+  }
+
+  // Function to copy link to clipboard
+  function copyLink(button) {
+    const input = button.previousElementSibling;
+    input.select();
+    input.setSelectionRange(0, 99999); // For mobile compatibility
+    document.execCommand("copy");
+
+    // Show feedback
+    button.innerText = "Copied!";
+    setTimeout(() => (button.innerText = "Copy"), 1500);
   }
 </script>
 

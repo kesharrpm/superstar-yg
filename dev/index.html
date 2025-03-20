@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SUPERSTAR YG DEV</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f9;
+      margin: 20px;
+    }
+    .container {
+      max-width: 600px;
+      margin: 50px auto;
+      background: #ffffff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    input[type="password"] {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      width: 100%;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    .file-list {
+      display: none;
+      margin-top: 20px;
+    }
+    .file-list a {
+      display: block;
+      padding: 10px;
+      background-color: #f9f9f9;
+      margin-bottom: 5px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      text-decoration: none;
+      color: #333;
+      transition: background 0.3s;
+    }
+    .file-list a:hover {
+      background-color: #eee;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Secure File Directory</h1>
+  <div id="login-form">
+    <input type="password" id="password" placeholder="Enter Password" />
+    <button onclick="checkPassword()">Enter</button>
+  </div>
+
+  <div id="file-list" class="file-list">
+    <h2>Available Files:</h2>
+    <a href="./file1.html" target="_blank">file1.html</a>
+    <a href="./file2.html" target="_blank">file2.html</a>
+    <a href="./file3.html" target="_blank">file3.html</a>
+    <!-- Add more files here -->
+  </div>
+</div>
+
+<script>
+  const correctPassword = "handlebars"; // Change this to your desired password
+
+  function checkPassword() {
+    const input = document.getElementById("password").value;
+    if (input === correctPassword) {
+      document.getElementById("login-form").style.display = "none";
+      document.getElementById("file-list").style.display = "block";
+    } else {
+      alert("Incorrect password. Please try again.");
+    }
+  }
+</script>
+
+</body>
+</html>
